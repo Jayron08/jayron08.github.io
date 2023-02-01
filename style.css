@@ -257,7 +257,7 @@ header .fa-bars {
 .products .box-container .box {
   flex: 1 1 30rem;
   text-align: center;
-  padding: 3rem 2rem;
+  padding: 1rem 1rem;
   background: #fff;
   box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
   outline:  .1rem solid #ccc;
@@ -321,6 +321,7 @@ header .fa-bars {
   text-decoration: line-through;
 }
 /* product */
+
 
 /* review */
 .testimonial-area {
